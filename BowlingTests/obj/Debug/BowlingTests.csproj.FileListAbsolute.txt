@@ -1,0 +1,11 @@
+C:\Users\Z6MDR\Documents\Visual Studio 2015\Projects\BowlingScore\BowlingTests\bin\Debug\BowlingTests.dll
+C:\Users\Z6MDR\Documents\Visual Studio 2015\Projects\BowlingScore\BowlingTests\bin\Debug\BowlingTests.pdb
+C:\Users\Z6MDR\Documents\Visual Studio 2015\Projects\BowlingScore\BowlingTests\bin\Debug\BowlingScore.exe
+C:\Users\Z6MDR\Documents\Visual Studio 2015\Projects\BowlingScore\BowlingTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Z6MDR\Documents\Visual Studio 2015\Projects\BowlingScore\BowlingTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Z6MDR\Documents\Visual Studio 2015\Projects\BowlingScore\BowlingTests\bin\Debug\BowlingScore.pdb
+C:\Users\Z6MDR\Documents\Visual Studio 2015\Projects\BowlingScore\BowlingTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Z6MDR\Documents\Visual Studio 2015\Projects\BowlingScore\BowlingTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Z6MDR\Documents\Visual Studio 2015\Projects\BowlingScore\BowlingTests\obj\Debug\BowlingTests.csprojResolveAssemblyReference.cache
+C:\Users\Z6MDR\Documents\Visual Studio 2015\Projects\BowlingScore\BowlingTests\obj\Debug\BowlingTests.dll
+C:\Users\Z6MDR\Documents\Visual Studio 2015\Projects\BowlingScore\BowlingTests\obj\Debug\BowlingTests.pdb

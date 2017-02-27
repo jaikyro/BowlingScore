@@ -1,0 +1,12 @@
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\BowlingScore\BowlingTests\bin\Release\BowlingTests.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\BowlingScore\BowlingTests\bin\Release\BowlingTests.pdb
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\BowlingScore\BowlingTests\bin\Release\BowlingScore.exe
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\BowlingScore\BowlingTests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\BowlingScore\BowlingTests\bin\Release\RestSharp.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\BowlingScore\BowlingTests\bin\Release\Newtonsoft.Json.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\BowlingScore\BowlingTests\bin\Release\BowlingScore.pdb
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\BowlingScore\BowlingTests\bin\Release\RestSharp.xml
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\BowlingScore\BowlingTests\bin\Release\Newtonsoft.Json.xml
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\BowlingScore\BowlingTests\obj\Release\BowlingTests.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\BowlingScore\BowlingTests\obj\Release\BowlingTests.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\BowlingScore\BowlingTests\obj\Release\BowlingTests.pdb
